@@ -7,8 +7,6 @@
 기능을 만드는 데서 끝내지 않고, 코드의 역할과 변경 범위를 나누는 방법을 고민합니다.  
 문제가 발생하면 실행 흐름을 단계별로 나누고, 로그와 테스트를 통해 원인과 수정 결과를 확인합니다.
 
-[Portfolio](https://app.notion.com/p/ProjectSX-3b435ffd26aa80d886e6cd3257f05a15)
-
 ---
 
 ## Projects
@@ -50,7 +48,6 @@ Unreal Engine 기반 멀티플레이 TPS 팀 프로젝트
 
 - C++
 - C#
-- SQL
 
 ### Game Development
 
@@ -67,23 +64,6 @@ Unreal Engine 기반 멀티플레이 TPS 팀 프로젝트
 - JetBrains Rider
 - Visual Studio
 - Notion
-
----
-
-## Development Approach
-
-- 기능의 책임을 컴포넌트와 데이터 단위로 분리합니다.
-- 실행 결과만 확인하지 않고 입력, 처리, 상태 변경 단계를 나눠 검증합니다.
-- 재현 조건과 수정 전후 결과를 코드, 로그, 영상으로 기록합니다.
-- 다른 사람이 코드의 의도와 변경 범위를 이해할 수 있도록 작성하려고 합니다.
-
-### AI-assisted Development
-
-AI를 요구사항 분석, 코드 검토, 테스트 설계와 문서화에 활용합니다.
-
-생성된 답변을 그대로 적용하지 않고, 프로젝트 코드와 엔진 구조를 대조한 뒤 빌드, 로그, 실행 테스트를 통해 결과를 검증합니다.
-
----
 
 ## Problem Solving
 
