@@ -75,6 +75,5 @@ Unreal Engine 기반 멀티플레이 TPS 팀 프로젝트
 ## Study Log
 
 알고리즘 풀이와 개발 과정에서 배운 내용을 기록하고 있습니다.  
-결과만 남기기보다 문제에 접근한 방법, 구현 과정에서 고민한 점과 새롭게 알게 된 내용을 정리합니다.
 
 [Development & Study Blog](https://nowea.tistory.com/)
